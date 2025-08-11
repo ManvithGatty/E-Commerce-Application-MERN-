@@ -34,6 +34,7 @@ cd backend
 npm install
 npm run seed
 npm start
+```
 
 ### **Frontend Setup**
 ```bash
